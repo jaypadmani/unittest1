@@ -37,7 +37,7 @@ public class Student {
         this.name = name;
     }
 
-    public String getAddress() {
+    public String  getAddress() {
         return address;
     }
 
